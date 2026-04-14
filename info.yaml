@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   clock_hz: 10000
-  top_module: "tt_um_kaz4n_i4004_demo"
+  top_module: "tt_um_kaz4n_i4004_demo.v"
   source_files:
     - "tt_um_kaz4n_i4004_demo.v"
     - "i4004_edu_core.v"
