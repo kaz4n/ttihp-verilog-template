@@ -3,7 +3,7 @@ project:
   clock_hz: 10000
   top_module: "tt_um_kaz4n_i4004_demo"
   source_files:
-    - "tt_um_<yourgithub>_i4004_demo.v"
+    - "tt_um_kaz4n_i4004_demo.v"
     - "i4004_edu_core.v"
   title:        "Intel 4004"      # Project title
   author:       "Tarek"      # Your name
