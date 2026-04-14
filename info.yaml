@@ -4,7 +4,7 @@ project:
   discord: ""
   description: "A compact 4-bit Intel 4004-style CPU starter for Tiny Tapeout"
   language: "Verilog"
-  clock_hz: 10000
+  clock_hz: 0
   tiles: "1x1"
   top_module: "tt_um_kaz4n_i4004_demo"
   source_files:
